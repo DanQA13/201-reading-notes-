@@ -1,5 +1,14 @@
 #  Code 201 Reading Notes
 
+This website is here to share my experience in class Code 201 with whoever maybe interested in the topics I am sharing with below. Some of the topic I will cover are.
+ ### HTML CSS and basic javascript javascript functions, debugging, git and much more.
+   
+  
+ 
+
+
+
+
 - [Reading 1]()
 - [Reading 2]()
 - [Reading 3]()
