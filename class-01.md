@@ -4,7 +4,8 @@ HTML is a markup language that defines the structure of your content. HTML consi
 
 ### Basic structure of an HTML document
 
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
 <title>Title here</title>
@@ -12,12 +13,14 @@ HTML is a markup language that defines the structure of your content. HTML consi
 <body>
 Web page content goes here.
 <body>
-</html>```
+</html>
+```
        
        
 The basic structure of an HTML document consists of 5 elements:
 
-```<!DOCTYPE>
+```
+<!DOCTYPE>
 <html>
 <head>
 <title>
@@ -64,7 +67,8 @@ HTML5 gives you a set of tools to allow you to divide up parts of the page. The 
 Below is a basic example of HTML
 
 
-``` <!DOCTYPE html
+```
+<!DOCTYPE html
 <html lang="en">
 <head>
  <title>Title of the document</title>
@@ -122,8 +126,8 @@ A script is a series of instructions that a computer can follow to achieve a goa
 - code each step. 
 
 
-
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
  
         <body>
@@ -138,9 +142,8 @@ A script is a series of instructions that a computer can follow to achieve a goa
                                      "Hello students!";
             </script>   
             <!-- html script tag ends here -->
- 
-        </body>
-```
+ </body>
+ ```
  
 
 
