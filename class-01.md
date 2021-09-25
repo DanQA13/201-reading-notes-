@@ -61,7 +61,7 @@ Some attributes of extra markup are grouping text together, emphasizing elements
 HTML5 gives you a set of tools to allow you to divide up parts of the page. The name of the elements indicate the type of content you will find in them. The different elements provide clear code compared to using multiple div elements. "HTML5 was initially released in 2008 by the W3C. W3C (the World Wide Web Consortium) is an international organization that developed this markup language with the objective of improving web accessibility and functionality." (https://www.seobility.net/en/wiki/HTML5)
 
  *Below is a basic example of HTML*
-```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -74,7 +74,7 @@ HTML5 gives you a set of tools to allow you to divide up parts of the page. The 
 
 </body>
 </html>
-```
+
 
 # Process and Design 
 
@@ -115,7 +115,7 @@ A script is a series of instructions that a computer can follow to achieve a goa
 
 - code each step. 
 
-```
+
 <!DOCTYPE html>
 <html>
  
@@ -134,7 +134,7 @@ A script is a series of instructions that a computer can follow to achieve a goa
  
         </body>
  
-```
+
 
  
 ## How do computers fit in the world around them?(B)
