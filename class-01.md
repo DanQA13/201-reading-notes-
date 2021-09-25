@@ -134,8 +134,10 @@ A script is a series of instructions that a computer can follow to achieve a goa
  
         </body>
  
- ```
+```
 
- ## How do computers fit in the world around them? (B)
+ 
+## How do computers fit in the world around them?(B)
 
- Computers create models of the world around them using data similar to how your senses take in information of your surroundings.  "The models use objects to represent physical things. Objects can have: properties that tell us about the object; methods that perform tasks using the properties of that object; events which are triggered when a user interacts with a computer.  (Javascript&JQuery Jon Duckett)
+ 
+Computers create models of the world around them using data similar to how your senses take in information of your surroundings.  "The models use objects to represent physical things. Objects can have: properties that tell us about the object; methods that perform tasks using the properties of that object; events which are triggered when a user interacts with a computer.  (Javascript&JQuery Jon Duckett)
