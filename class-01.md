@@ -3,6 +3,7 @@ HTML is a markup language that defines the structure of your content. HTML consi
 ![HTML logo](https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F03%2Fcode-1076536_1920.jpg&signature=2e75357e1e9b104caa33cb3a545dcbeb)
 
 ### Basic structure of an HTML document
+
 ```<!DOCTYPE html>
        <html>
           <head>
@@ -11,8 +12,7 @@ HTML is a markup language that defines the structure of your content. HTML consi
           <body>
               Web page content goes here.
           <body>
-        </html>
-```
+        </html>```
        
        
 The basic structure of an HTML document consists of 5 elements:
@@ -21,8 +21,11 @@ The basic structure of an HTML document consists of 5 elements:
 <html>
 <head>
 <title>
-<body>
+<body> 
 ```
+
+
+
 
 * A DOCTYPE declaration must be specified on the first line of each web document.
 
@@ -58,7 +61,8 @@ Some attributes of extra markup are grouping text together, emphasizing elements
 
 HTML5 gives you a set of tools to allow you to divide up parts of the page. The name of the elements indicate the type of content you will find in them. The different elements provide clear code compared to using multiple div elements. "HTML5 was initially released in 2008 by the W3C. W3C (the World Wide Web Consortium) is an international organization that developed this markup language with the objective of improving web accessibility and functionality." (https://www.seobility.net/en/wiki/HTML5)
 
- *Below is a basic example of HTML*
+* Below is a basic example of HTML
+
 
 ```<!DOCTYPE html>
 <html lang="en">
@@ -116,6 +120,7 @@ A script is a series of instructions that a computer can follow to achieve a goa
 - code each step. 
 
 
+
 ```<!DOCTYPE html>
 <html>
  
@@ -138,7 +143,6 @@ A script is a series of instructions that a computer can follow to achieve a goa
 
 
  
-## How do computers fit in the world around them?(B)
+## How do computers fit in the world around them?
 
- 
-Computers create models of the world around them using data similar to how your senses take in information of your surroundings.  "The models use objects to represent physical things. Objects can have: properties that tell us about the object; methods that perform tasks using the properties of that object; events which are triggered when a user interacts with a computer.  (Javascript&JQuery Jon Duckett)
+Computers create models of the world around them using data similar to how your senses take in information of your surroundings.  "The models use objects to represent physical things. Objects can have: properties that tell us about the object; methods that perform tasks using the properties of that object; events which are triggered when a user interacts with a computer. (Javascript&JQuery Jon Duckett)
