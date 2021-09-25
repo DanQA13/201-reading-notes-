@@ -5,14 +5,14 @@ HTML is a markup language that defines the structure of your content. HTML consi
 ### Basic structure of an HTML document
 
 ```<!DOCTYPE html>
-       <html>
-          <head>
-            <title>Title here</title>
-          <head>
-          <body>
-              Web page content goes here.
-          <body>
-        </html>```
+<html>
+<head>
+<title>Title here</title>
+<head>
+<body>
+Web page content goes here.
+<body>
+</html>```
        
        
 The basic structure of an HTML document consists of 5 elements:
@@ -21,13 +21,13 @@ The basic structure of an HTML document consists of 5 elements:
 <html>
 <head>
 <title>
-<body> 
+<body>
 ```
 
 
 
 
-* A DOCTYPE declaration must be specified on the first line of each web document.
+* A **DOCTYPE** declaration must be specified on the first line of each web document.
 
 * The **Element**
 Immediately following the DOCTYPE declaration is the html element.  The html element tells the browser that the page will be formatted in HTML and, optionally, which language the page content is in.
@@ -61,13 +61,13 @@ Some attributes of extra markup are grouping text together, emphasizing elements
 
 HTML5 gives you a set of tools to allow you to divide up parts of the page. The name of the elements indicate the type of content you will find in them. The different elements provide clear code compared to using multiple div elements. "HTML5 was initially released in 2008 by the W3C. W3C (the World Wide Web Consortium) is an international organization that developed this markup language with the objective of improving web accessibility and functionality." (https://www.seobility.net/en/wiki/HTML5)
 
-* Below is a basic example of HTML
+Below is a basic example of HTML
 
 
-```<!DOCTYPE html>
+``` <!DOCTYPE html
 <html lang="en">
 <head>
-  <title>Title of the document</title>
+ <title>Title of the document</title>
 </head>
 <body>
 
@@ -77,6 +77,8 @@ HTML5 gives you a set of tools to allow you to divide up parts of the page. The 
 </body>
 </html>
 ```
+
+
 
 
 
