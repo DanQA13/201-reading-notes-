@@ -78,6 +78,8 @@ Definition lists
     <dd>A drink made from roasted coffee beans.</dd>
 </dl>
 
+(https://medium.com/@DaphneWatson/css-box-model-for-beginners-45b93061c8e1)
+
 # CSS Boxes
 
 ![box pic](https://i5.walmartimages.com/asr/81e055fd-a8ce-4fd7-8d21-333f027b1cdc.e5ce12b170e68e910efea49a608515ab.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF)
