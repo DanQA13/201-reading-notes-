@@ -19,11 +19,14 @@
 
 ### Writing links 
 Below is an example of attaching a link to yu code.
+
 ```
 <a href="http://www.example.com">EXAMPLE</a>
 
 Rendered output -  EXAMPLE (clickable link)
+
 ```
+
 (https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_hyperlinks)
 
 # Layout
