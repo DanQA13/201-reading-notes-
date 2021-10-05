@@ -25,10 +25,9 @@ Below is an example of attaching a link to code.
 
 
 ```
-<a href="http://www.example.com">EXAMPLE</a>
+ 
 
 Rendered output -  EXAMPLE (clickable link)
-
 
 ```
 
