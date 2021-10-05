@@ -15,10 +15,10 @@
 <P> Before the Web, it was quite hard to access documents and move from one to another. Being human-readable, URLs already made things easier, but it's hard to type a long URL whenever you want to access a document. This is where hyperlinks revolutionized everything. Links can correlate any text string with a URL, such that the user can instantly reach the target document by activating the link.</P>
 
 <p>Links stand out from the surrounding text by being underlined and in blue text. Tap or click a link to activate it, or if you use a keyboard, press Tab until the link is in focus and hit Enter or Spacebar.Links are the breakthrough that made the Web so useful and successful. In the rest of this article, we discuss the various types of links and their importance to modern Web design.</P>
+(https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_hyperlinks)
 
-
-### Writing links 
-Below is an example of attaching a link to yu code.
+# Writing links 
+Below is an example of attaching a link to code.
 
 ```
 <a href="http://www.example.com">EXAMPLE</a>
@@ -27,7 +27,7 @@ Rendered output -  EXAMPLE (clickable link)
 
 ```
 
-(https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_hyperlinks)
+
 
 # Layout
 
