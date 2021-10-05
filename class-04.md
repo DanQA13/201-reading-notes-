@@ -19,17 +19,6 @@
 (https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_hyperlinks)
 
 
-# Writing links 
-
-Below is an example of attaching a link to code.
-
-
-```
- 
-
-Rendered output -  EXAMPLE (clickable link)
-
-```
 
 
 
