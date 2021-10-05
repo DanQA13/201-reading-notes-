@@ -15,10 +15,14 @@
 <P> Before the Web, it was quite hard to access documents and move from one to another. Being human-readable, URLs already made things easier, but it's hard to type a long URL whenever you want to access a document. This is where hyperlinks revolutionized everything. Links can correlate any text string with a URL, such that the user can instantly reach the target document by activating the link.</P>
 
 <p>Links stand out from the surrounding text by being underlined and in blue text. Tap or click a link to activate it, or if you use a keyboard, press Tab until the link is in focus and hit Enter or Spacebar.Links are the breakthrough that made the Web so useful and successful. In the rest of this article, we discuss the various types of links and their importance to modern Web design.</P>
+
 (https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_hyperlinks)
 
+
 # Writing links 
+
 Below is an example of attaching a link to code.
+
 
 ```
 <a href="http://www.example.com">EXAMPLE</a>
@@ -29,11 +33,14 @@ Rendered output -  EXAMPLE (clickable link)
 
 
 
+
 # Layout
 
 ![layout pic](https://colibriwp.com/blog/wp-content/uploads/2018/07/build-develop-site-web-design-content-1571569-pxhere.com_.jpg)
 
+
 A website layout is a pattern (or framework) that defines a website’s structure. It has the role of structuring the information present on a site both for the website’s owner and for users. It provides clear paths for navigation within web pages and puts the most important elements of a website front and center.
+
 
 Website layouts define the content hierarchy, regardless of whether or not you’re learning how to start a blog or building a simple website for your small business. Content will guide visitors around the website, and it must convey your message as well as possible to them. To put it short,  website layouts are critical elements that make a website a success, or a failure.
 
