@@ -13,7 +13,7 @@ This website is here to share my experience in class Code 201 with whoever maybe
 - [Reading 3](class-03.md)
 - [Reading 4](class-04.md)
 - [Reading 5](class-05.md)
-- [Reading 6]()
+- [Reading 6](class-06.md)
 - [Reading 7]()
 - [Reading 8]()
 - [Reading 9]()
