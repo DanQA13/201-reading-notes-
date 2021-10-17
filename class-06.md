@@ -16,7 +16,7 @@ name = 'lambo'
 cylinders = 12,
 seats = 2,
 lambo = true,
-options = [navigation, 'dvd','premium sound','remote start' ]
+options = ['navigation', 'dvd','premium sound','remote start' ]
 CheckCarsWoptions: function(){
     return this.lambo && this.options;
 }
@@ -27,7 +27,7 @@ Objects have "variables" called keys and their values called values, together th
 - Cylinders = 12
 - seats = 2
 - lambo = true
-- options = [navigation, 'dvd','premium sound','remote start' ]
+- options = ['navigation', 'dvd' ,'premium sound','remote start' ]
 
 What you do with these key value pairs or how you access them is up to your imagination. They are usually accessed with a function. But within an object a function is called a method. 
 ```
