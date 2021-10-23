@@ -16,7 +16,7 @@ This website is here to share my experience in class Code 201 with whoever maybe
 - [Reading 6](class-06.md)
 - [Reading 7](class-07.md)
 - [Reading 8](class-08.md)
-- [Reading 9]()
+- [Reading 9](class-09.md)
 - [Reading 10]()
 - [Reading 11]()
 - [Reading 12]()
