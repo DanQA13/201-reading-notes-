@@ -1,6 +1,7 @@
 # Error Handling & Debugging
 
-![bugs](https://data.embeddedcomputing.com/uploads/resize/1256/756/external/data.embeddedcomputing.com/uploads/articles/wp/345429795/ECD5688-figures-4)
+![bugs](https://miro.medium.com/max/1400/0*FS04SrmkxxSWGrL-.png
+)
 
 
 Error handling in JavaScript
